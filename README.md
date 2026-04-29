@@ -16,9 +16,13 @@ A simple and interactive **JavaScript counter application** that allows you to i
 
 ## 📁 Project Structure
 index.html
+
 assests/
+
 ├── style.css
+
 └── script.js
+
 README.md
 
 
