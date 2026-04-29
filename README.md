@@ -42,7 +42,7 @@ README.md
 - `.counterResetButton` → reset button  
 
 ---
-
-git clone [https://github.com/parvizi96/counter/](https://github.com/parvizi96/counter/)
-cd My-Counter
-open index.html
+## 🧠 Use It
+-git clone [https://github.com/parvizi96/counter/](https://github.com/parvizi96/counter/)
+-cd My-Counter
+-open index.html
