@@ -43,6 +43,6 @@ README.md
 
 ---
 ## 🧠 Use It
--git clone [https://github.com/parvizi96/counter/](https://github.com/parvizi96/counter/)
--cd My-Counter
--open index.html
+- git clone [https://github.com/parvizi96/counter/](https://github.com/parvizi96/counter/)
+- cd My-Counter
+- open index.html
